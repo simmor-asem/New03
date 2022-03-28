@@ -154,7 +154,7 @@ Children:
     - Name: MaxValue
       Type: BaseDataVariableType
       DataType: Float
-      Value: 50.0
+      Value: 250.0
     - Name: WarningZones
       Type: BaseObjectType
     - Name: Width
