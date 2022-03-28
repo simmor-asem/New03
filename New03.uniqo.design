@@ -1,0 +1,17 @@
+Project:
+ Name: New03_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.0.78
+ Dependencies:
+  2:
+   Uri: New03
+   RelativePath: New03.uniqo
+  3:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.5.118
+ Nodes: []
